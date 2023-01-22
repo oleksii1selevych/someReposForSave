@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\components",
+    "\\src\\components\\seminars",
+    "\\src\\components\\seminars\\seminar1",
+    "\\src\\helpers"
+  ],
+  "SelectedNode": "\\src\\helpers\\vigenereCipher.js",
+  "PreviewInSolutionExplorer": false
+}
